@@ -5,6 +5,9 @@ YouTube audio is of poor quality due to system hardware.
 
 [![Keith Connors - Audio Visualizer]( http://i63.tinypic.com/mwto46.png)]( https://www.youtube.com/watch?v=ddJDX1rGox4 " Keith Connors - Audio Visualizer ")
 
+## Version Control
+GitHub was not used for version control of this project, this was due to restriction from Unity as the Collaboration setting was on as to create this project as part of a team.
+
 ## What it does
 The audio visualizer, when starting off will instantiate an array of 512 cubes in a 360° circle,
 The camera will rotate around an empty GameObject located in the middle of the circle as to show off the different areas of the audio visualizer during the playing of a song giving the impression of a rolling effect of the audio.
